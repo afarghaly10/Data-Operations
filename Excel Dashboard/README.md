@@ -2,7 +2,7 @@
 
 ## What is it about ?
 
-A Statistical dashboards based on an Imaginary company which produces various amount of applications. The applications are categorized into 3 divisons, Productions apps, Game apps, and Utility apps. App names and data used are made up data and has no relations to any realistic values.
+A Statistical dashboards based on an Imaginary company which produces various amount of applications. The applications are categorized into 3 divisions, Productions apps, Game apps, and Utility apps. App names and data used are made up data and has no relations to any realistic values.
 
 ## What are the files attached and what do they contain ?
 
